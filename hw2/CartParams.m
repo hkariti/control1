@@ -5,6 +5,7 @@ b = 0.1;
 l = 0.3;
 I = 0.006;
 g= 10;
+save('CartParams.mat');
 %% plot output to step input
 figure;
 hold on;
